@@ -1,4 +1,4 @@
-﻿class Animal:
+﻿#class Animal:
     especie = "Animal"
 
     def __init__(self, nombre, edad):
@@ -25,12 +25,12 @@
         pass
 
 
-class Perro(Animal):
+#class Perro(Animal):
     def hacer_sonido(self):
         return 
 
 
-class Gato(Animal):
+#class Gato(Animal):
     def hacer_sonido(self):
         return 
 
